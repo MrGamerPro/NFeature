@@ -1,0 +1,14 @@
+name: NFeature
+main: MrGamerPro\ComingSoon\ComingSoon
+version: 0.0.1BETA
+api: [1.12.0]
+author: MrGamerPro50
+commands:
+    Nfeature:
+       description: Sends a message to the user that that feature hasn't been added yet
+       permission: nfeature.msg
+permissions: 
+    nfeature.use:
+        default: true
+        description: Sends a message to the user that that feature hasn't been added yet
+      
